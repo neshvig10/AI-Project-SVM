@@ -5,13 +5,13 @@ Link to the dataset used : https://www.kaggle.com/datasets/hankelea/system-ident
 
 Fields in the dataset : 
 
--id_k : d-current at time k in A (Ampere)
--iq_k : q-current at time k in A (Ampere)
--epsilon_k : rotor angle at time k in rad (Radian)
--n_k : elementary vector (inverter switching command) applied between time k and time (k+1)
--n_1k : elementary vector (inverter switching command) applied between time (k-1) and time k
--id_k1 : d-current at time (k+1) in A (Ampere)
--iq_k1 : q-current at time (k+1) in A (Ampere)
+- id_k : d-current at time k in A (Ampere)
+- iq_k : q-current at time k in A (Ampere)
+- epsilon_k : rotor angle at time k in rad (Radian)
+- n_k : elementary vector (inverter switching command) applied between time k and time (k+1)
+- n_1k : elementary vector (inverter switching command) applied between time (k-1) and time k
+- id_k1 : d-current at time (k+1) in A (Ampere)
+- iq_k1 : q-current at time (k+1) in A (Ampere)
 
 The dataset used here is derived from PADERBORN University , Germany and it has around 10 million rows of data 
 
