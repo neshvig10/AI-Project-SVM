@@ -1,5 +1,8 @@
 # AI_Project
-Under the guidance of Prof. Dr. Sanjay Kumar Singh , IIT(BHU) CSE Dept • Implemented **Support Vector Machine** Model to predict the output current for an Electric car, in the dataset containing input currents and phase value of current . • Using the percentage loss of current , predicted the battery life. • Achieved **97%** accuracy. Exposure : Python ,XgBoost Regressor , Machine Learning , Support Vector Machine , Linear Regression . Link to the code : https://github.com/neshvig10/AI_Project 
+Under the guidance of Prof. Dr. Sanjay Kumar Singh , IIT(BHU) CSE Dept 
+• Implemented **Support Vector Machine** Model to predict the output current for an Electric car, in the dataset containing input currents and phase value of current . 
+• Using the percentage loss of current , predicted the battery life. 
+• Achieved **97%** accuracy. Exposure : Python ,XgBoost Regressor , Machine Learning , Support Vector Machine , Linear Regression . Link to the code : https://github.com/neshvig10/AI_Project 
 
 Link to the dataset used : https://www.kaggle.com/datasets/hankelea/system-identification-of-an-electric-motor
 
