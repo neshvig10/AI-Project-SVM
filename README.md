@@ -40,3 +40,30 @@ Figure shows the basic setup of an electric drivetrain of an electric vehicle. C
 ![image](https://github.com/neshvig10/AI_Project/assets/104668723/5b0a9044-2d1f-4908-ab81-4996435aa698)
 
 Because of the structure and setup of the inverter the v1 and v8 produce the same voltage so we consider both of them as a single vector. The motor is generally operated in the dq coordinate system. The dq coordinate system is commonly used in motor control because it simplifies the mathematical modeling and control of the motor. In this coordinate system, the stator currents and voltages are represented in two orthogonal axes: the d-axis and the q-axis.
+
+# About the implemented technique :
+
+**Support Vector Machine (SVM)** regression is a popular machine learning algorithm used
+for regression tasks. In contrast to other regression algorithms, SVM regression tries to
+find the best line or hyperplane that can accurately predict the target variable.
+
+In SVM regression, the algorithm tries to find a hyperplane that has the maximum
+margin from the training data. The margin is the distance between the hyperplane and
+the closest data points from both sides. The goal is to minimize the errors made by the
+hyperplane while maximizing the margin.
+
+To implement SVM regression, the training data is first transformed into a higher
+dimensional feature space, where the data is more separable. This transformation is
+done using a kernel function, which takes the input variables and maps them to a higher
+dimensional space. The most common kernel functions used in SVM regression are the
+linear, polynomial, and radial basis function (RBF) kernels.
+
+Once the data is transformed, the algorithm finds the hyperplane that has the maximum
+margin and separates the data into two regions: positive and negative. The predicted
+value for a new data point is then based on its position relative to the hyperplane.
+
+SVM regression has several advantages, including its ability to handle high-dimensional
+data and its ability to work well with non-linear relationships between the input variables
+and the target variable. However, it can be sensitive to the choice of kernel function and
+regularization parameters, which may require some tuning to achieve optimal
+performance.
