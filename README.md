@@ -67,3 +67,9 @@ data and its ability to work well with non-linear relationships between the inpu
 and the target variable. However, it can be sensitive to the choice of kernel function and
 regularization parameters, which may require some tuning to achieve optimal
 performance.
+
+
+# Results : 
+
+![image](https://github.com/neshvig10/AI_Project/assets/104668723/eea30b8e-d8cf-48a5-95f4-a1005a777fcf)
+![image](https://github.com/neshvig10/AI_Project/assets/104668723/6ed80467-a0d9-43e5-9a7d-b2b5034e187a)
