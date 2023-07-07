@@ -4,8 +4,8 @@ Under the guidance of Prof. Dr. Sanjay Kumar Singh , IIT(BHU) CSE Dept • Imple
 The dataset used here is derived from PADERBORN University , Germany and it has around 10 million rows of data 
 
 Contributors : 
-@neshvig10
-@saikatmondalcse
+- S Vigneshwaran (21075073) - myself
+- Saikat Mondal (21075075) 
 
 The drivetrain of an electric vehicle consists of a battery, an inverter, an electric motor, and a controller. In our experiment, we always keep our battery ideal
 throughout the experiment. The inverter is a power electronic gadget with switchable semiconductors that converts the electric energy provided by the battery from a
